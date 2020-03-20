@@ -21,3 +21,7 @@
 - [react-ga](https://github.com/react-ga/react-ga#installation) &ndash; React Google Analytics Module
 - [react-swipeable-views](https://react-swipeable-views.com/getting-started/installation) &ndash; React component for swipeable views
 - [react-transition-group](https://reactcommunity.org/react-transition-group) &ndash; Manage component states over time, designed with animation in mind
+
+## License
+
+This project is licensed under the terms of the [MIT License](LICENSE.md).
