@@ -34,6 +34,11 @@
 - [react-swipeable-views](https://react-swipeable-views.com) – React component for swipeable views
 - [react-transition-group](https://reactcommunity.org/react-transition-group) – Manage component states over time, designed with animation in mind
 
+## Typescript
+
+- [ts-node](https://github.com/TypeStrong/ts-node) – TypeScript execution and REPL for Node.js, with source map support
+- [typescript](https://www.typescriptlang.org) – TypeScript is typed JavaScript at any scale
+
 ## License
 
 [MIT License](LICENSE.md)
