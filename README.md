@@ -10,12 +10,17 @@
 - [chalk](https://github.com/chalk/chalk) – Terminal string styling done right
 - [cors](https://github.com/expressjs/cors) – Connect/Express middleware that can be used to enable CORS
 - [dotenv](https://github.com/motdotla/dotenv) – Loads environment variables from .env for Node.js projects
-- [express](http://expressjs.com) – Fast, unopinionated, minimalist web framework for Node.js
+- [express](https://expressjs.com) – Fast, unopinionated, minimalist web framework for Node.js
 - [handlebarsjs](https://handlebarsjs.com) – Minimal templating on steroids
+- [JSON Server](https://github.com/typicode/json-server) – Get a full fake REST API with zero coding in less than 30 seconds
 - [live-server](https://github.com/tapio/live-server) – A simple development http server with live reload capability
+- [localtunnel](https://github.com/localtunnel/localtunnel) – localtunnel exposes your localhost to the world for easy testing and sharing
 - [mongoose](https://mongoosejs.com) – Elegant MongoDB object modeling for Node.js
+- [Nodemailer](https://nodemailer.com) – Send e-mails from Node.js
 - [nodemon](https://github.com/remy/nodemon) – Automatically restart the Node.js application when file changes
 - [pm2](https://github.com/Unitech/pm2) – Node.js Production Process Manager with a built-in Load Balancer
+- [pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) – Utility to make PM2 automatically resurrect on Windows startup
+- [Puppeteer](https://pptr.dev) – Headless Chrome Node.js API
 
 ## React
 
