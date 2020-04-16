@@ -14,6 +14,7 @@
 - [axios](https://github.com/axios/axios) – Promise based HTTP client for the browser and Node.js
 - [chalk](https://github.com/chalk/chalk) – Terminal string styling done right
 - [cors](https://github.com/expressjs/cors) – Connect/Express middleware that can be used to enable CORS
+- [date-fns](https://date-fns.org) – Modern JavaScript date utility library
 - [dotenv](https://github.com/motdotla/dotenv) – Loads environment variables from .env for Node.js projects
 - [email-templates](https://email-templates.js.org) – Create, preview, and send custom email templates for Node.js
 - [express](https://expressjs.com) – Fast, unopinionated, minimalist web framework for Node.js
