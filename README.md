@@ -13,6 +13,7 @@
 
 - [axios](https://github.com/axios/axios) – Promise based HTTP client for the browser and Node.js
 - [chalk](https://github.com/chalk/chalk) – Terminal string styling done right
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently) – Run multiple commands concurrently
 - [cors](https://github.com/expressjs/cors) – Connect/Express middleware that can be used to enable CORS
 - [date-fns](https://date-fns.org) – Modern JavaScript date utility library
 - [dotenv](https://github.com/motdotla/dotenv) – Loads environment variables from .env for Node.js projects
@@ -29,20 +30,24 @@
 - [pm2](https://github.com/Unitech/pm2) – Node.js Production Process Manager with a built-in Load Balancer
 - [pm2-windows-startup](https://github.com/marklagendijk/node-pm2-windows-startup) – Utility to make PM2 automatically resurrect on Windows startup
 - [puppeteer](https://pptr.dev) – Headless Chrome Node.js API
+- [rimraf](https://github.com/isaacs/rimraf) – The UNIX command `rm -rf` for Node.js
+- [wait-on](https://github.com/jeffbski/wait-on) – A cross-platform command line utility which will wait for files, ports, sockets, and http(s) resources
 
 ## PostCSS
 
 - [cssnano](https://cssnano.co) – A modular minifier, built on top of the PostCSS ecosystem
 - [postcss](https://postcss.org) – A tool for transforming CSS with JavaScript
 - [postcss-import](https://github.com/postcss/postcss-import) – PostCSS plugin to inline @import rules content
+- [postcss-preset-env](https://preset-env.cssdb.org/) – Convert modern CSS into something browsers understand
 
 ## React
 
 - [apollographql](https://www.apollographql.com/docs/react) – Apollo Client in your React app
 - [classnames](https://github.com/JedWatson/classnames) – Simple JavaScript utility for conditionally joining classNames together
 - [create-react-app](https://create-react-app.dev) – Set up a React web app by running one command
-- [react-router-dom](https://reacttraining.com/react-router/web) – Declarative Routing for React
+- [react-feather](https://github.com/feathericons/react-feather) – React component for Feather icons
 - [react-ga](https://github.com/react-ga/react-ga) – React Google Analytics Module
+- [react-router-dom](https://reacttraining.com/react-router/web) – Declarative Routing for React
 - [react-swipeable-views](https://react-swipeable-views.com) – React component for swipeable views
 - [react-transition-group](https://reactcommunity.org/react-transition-group) – Manage component states over time, designed with animation in mind
 
