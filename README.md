@@ -60,6 +60,35 @@
 
 - [webpack](https://webpack.js.org) – Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset
 
+## Visual Studio Code Extensions
+
+- [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) – Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) – A VS Code extension to help visualize CSS colors in files
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) – Support for dotenv file syntax
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) – Simple extensions for React, Redux and GraphQL in JS/TS with ES7 syntax
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) – Supercharge the Git capabilities built into Visual Studio Code
+- [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind) – An opinionated class sorter for Tailwind CSS
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) – CSS support for HTML documents
+- [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) – Shows image preview in the gutter and on hover
+- [Incrementor](https://marketplace.visualstudio.com/items?itemName=nmsmith89.incrementor) – Advanced increment / decrement actions for just about anything
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) – All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+- [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) – Adds Mermaid diagram and flowchart support to VS Code's built-in markdown preview
+- [Open in Application](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-application) – Open an arbitrary file in its default app, or the app you want
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype) – Copy JSON, paste as Go, TypeScript, C#, C++ and more
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) – Visual Studio Code plugin that autocompletes filenames
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) – PHP code intelligence for Visual Studio Code
+- [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss) – Syntax highlighting for modern and experimental CSS in VSCode
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) – Code formatter using prettier
+- [Projects+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-projects-plus) – An extension for managing projects. Feature rich, customizable, automatically finds your projects
+- [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json) – Sorts the keys within JSON objects
+- [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright) – Multilingual, Offline and Lightweight Spellchecker
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) – Tailwind CSS class name completion
+- [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) – Manage todo lists with ease. Powerful, easy to use and customizable
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) – Automating the process of writing meaningful log messages
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) – Vue tooling for VS Code
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) – Icons for Visual Studio Code
+- [Windows Terminal Integration](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal) – VS Code integration with Windows Terminal
+
 ## License
 
 [MIT License](LICENSE.md)
