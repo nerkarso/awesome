@@ -45,6 +45,8 @@
 - [apollographql](https://www.apollographql.com/docs/react) – Apollo Client in your React app
 - [classnames](https://github.com/JedWatson/classnames) – Simple JavaScript utility for conditionally joining classNames together
 - [create-react-app](https://create-react-app.dev) – Set up a React web app by running one command
+- [react-app-rewired](https://github.com/timarney/react-app-rewired) – Override Create React App Webpack configs without ejecting
+- [react-app-rewire-postcss](https://github.com/csstools/react-app-rewire-postcss) – Configure PostCSS in Create React App without ejecting
 - [react-feather](https://github.com/feathericons/react-feather) – React component for Feather icons
 - [react-ga](https://github.com/react-ga/react-ga) – React Google Analytics Module
 - [react-router-dom](https://reacttraining.com/react-router/web) – Declarative Routing for React
