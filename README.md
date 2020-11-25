@@ -15,6 +15,7 @@
 - [chalk](https://github.com/chalk/chalk) – Terminal string styling done right
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) – Run multiple commands concurrently
 - [cors](https://github.com/expressjs/cors) – Connect/Express middleware that can be used to enable CORS
+- [cross-env](https://www.npmjs.com/package/cross-env) – Run scripts that set and use environment variables across platforms
 - [date-fns](https://date-fns.org) – Modern JavaScript date utility library
 - [dotenv](https://github.com/motdotla/dotenv) – Loads environment variables from .env for Node.js projects
 - [email-templates](https://email-templates.js.org) – Create, preview, and send custom email templates for Node.js
@@ -45,6 +46,7 @@
 - [apollographql](https://www.apollographql.com/docs/react) – Apollo Client in your React app
 - [classnames](https://github.com/JedWatson/classnames) – Simple JavaScript utility for conditionally joining classNames together
 - [create-react-app](https://create-react-app.dev) – Set up a React web app by running one command
+- [Framer Motion](https://www.framer.com/motion) – A production-ready motion library for React
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) – Override Create React App Webpack configs without ejecting
 - [react-app-rewire-postcss](https://github.com/csstools/react-app-rewire-postcss) – Configure PostCSS in Create React App without ejecting
 - [react-feather](https://github.com/feathericons/react-feather) – React component for Feather icons
@@ -93,4 +95,4 @@
 
 ## License
 
-[MIT License](LICENSE.md)
+[MIT](LICENSE)
