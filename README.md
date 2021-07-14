@@ -46,6 +46,9 @@
 - ⭐️ [Next.js](https://nextjs.org) – The React Framework for Production
 - ⭐️ [Framer Motion](https://www.framer.com/motion) – A production-ready motion library for React
 - ⭐️ [classnames](https://github.com/JedWatson/classnames) – Simple JavaScript utility for conditionally joining classNames together
+- ⭐️ [React Hook Form](https://react-hook-form.com) – React Hooks for forms validation
+- ⭐️ [SWR](https://swr.vercel.app) – React Hooks for remote data fetching
+- ⭐️ [React Hot Toast](https://react-hot-toast.com) – Smoking hot React Notifications
 - [Apollo Client](https://www.apollographql.com/docs/react) – Apollo Client in your React app
 - [craco](https://github.com/gsoft-inc/craco) – Create React App Configuration Override is an easy and comprehensible configuration layer for create-react-app
 - [create-react-app](https://create-react-app.dev) – Set up a React web app by running one command
